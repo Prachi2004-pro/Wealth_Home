@@ -1,11 +1,12 @@
 import AboutSection from "./Components/AboutSection"
 import Blogs from "./Components/Blogs"
+import Contact from "./Components/Contact"
 import Customer from "./Components/Customer"
 import Features from "./Components/Features"
 import Financial from "./Components/Financial"
 import Hero from "./Components/Hero"
 import Navbar from "./Components/Navbar"
-import Footer from "./Components/footer"
+
 
 const App = () => {
   return (
@@ -17,7 +18,7 @@ const App = () => {
       <Blogs/>
       <Financial/>
       <Customer/>
-      <Footer/>
+      <Contact/>
     </div>
   )
 }

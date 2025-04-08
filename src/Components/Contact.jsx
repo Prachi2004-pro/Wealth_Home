@@ -1,4 +1,3 @@
-import React from "react";
 import { IoCall } from "react-icons/io5";
 import { IoMail } from "react-icons/io5";
 import { FaLocationDot } from "react-icons/fa6";
@@ -7,7 +6,7 @@ import { FaXTwitter } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
 
-const footer = () => {
+const Contact = () => {
   return (
     <div id="contact" className="bg-black text-white w-full h-[300px] p-12">
       <div className="flex justify-around">
@@ -62,4 +61,4 @@ const footer = () => {
   );
 };
 
-export default footer;
+export default Contact;
