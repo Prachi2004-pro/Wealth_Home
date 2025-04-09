@@ -8,6 +8,7 @@ const Navbar = () => {
   return (
     <div>
         <div className="bg-white w-full h-14 flex flex-row justify-between">
+            {/* Logo */}
             <div className="flex flex-col justify-center mx-16">
                 <img className="w-40 h-6 max-md:w-32" src={Logo} alt="Logo" />
                 <p className="text-blue-700 text-[10px] max-md:text-[8px]">Empowering Financial Independence</p>

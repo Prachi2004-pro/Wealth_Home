@@ -80,13 +80,13 @@ const Financial = () => {
                 data: xLabels,
                 scaleType: "band",
                 label: "Pages",
-                tickLabelStyle: { fill: "white" }, // 👈 change X-axis text color
+                tickLabelStyle: { fill: "white" }, // change X-axis text color
               },
             ]}
             yAxis={[
               {
                 label: "Value",
-                tickLabelStyle: { fill: "white" }, // 👈 change Y-axis text color
+                tickLabelStyle: { fill: "white" }, // change Y-axis text color
               },
             ]}
             sx={{

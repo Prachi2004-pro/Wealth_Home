@@ -53,7 +53,7 @@ const Contact = () => {
           </div>
         </div>
       </div>
-      <hr className="bg-slate-600 w-[100%] h-[1px]" />
+      <hr className="bg-slate-200 w-[100%]" />
       <h1 className="text-center text-sm text-gray-500 p-4">
         Powered By UPONLY Technologies
       </h1>

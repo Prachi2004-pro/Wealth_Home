@@ -48,10 +48,6 @@ const Features = () => {
         {/* Financial Planning */}
         <div
           className="bg-black w-[65rem] h-[280px] text-white rounded-r-3xl flex flex-col"
-          style={{
-            clipPath:
-              "polygon(0% 0%, 90% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 50%)",
-          }}
         >
           <h3 className="text-2xl font-bold mt-10 mx-72">
             Personalized Financial Planning

@@ -19,16 +19,16 @@ const AboutSection = () => {
           </p>
           <div className="px-11 pt-3 flex flex-col gap-4">
             <p className="flex gap-4">
-              <MdDone className="text-blue-500" /> Personalized Approach
+              <MdDone className="text-blue-500 mt-2"/> Personalized Approach
             </p>
             <p className="flex gap-4">
-              <MdDone className="text-blue-500" /> Holistic Solutions
+              <MdDone className="text-blue-500 mt-2" /> Holistic Solutions
             </p>
             <p className="flex gap-4">
-              <MdDone className="text-blue-500" /> Proactive Guidance
+              <MdDone className="text-blue-500 mt-2" /> Proactive Guidance
             </p>
             <p className="flex gap-4">
-              <MdDone className="text-blue-500" /> Commitment to Excellence
+              <MdDone className="text-blue-500 mt-2" /> Commitment to Excellence
             </p>
           </div>
         </div>

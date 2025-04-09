@@ -26,7 +26,7 @@ const Blogs = () => {
 
   return (
     <div className="w-full h-[850px] text-black">
-      <div id="About" className=" m-10 p-2 tracking-wider">
+      <div className=" m-10 p-2 tracking-wider">
         <h1 className="text-4xl font-extrabold text-center">Recent Blogs</h1>
         <div className="flex justify-between gap-20 my-12">
           {blogsData.map((blog, index) => (
